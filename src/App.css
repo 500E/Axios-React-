@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background: lightseagreen;
+  height: 100vh;
+}
+
+
+.App-header {
+  background-color: #222;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+form {
+  margin:30px auto;
+  display: block;
+}
+
+input {
+  display: block;
+  margin: auto;
+}
+
+button {
+  margin: 10px auto;
+}
